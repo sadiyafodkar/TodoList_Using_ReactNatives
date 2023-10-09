@@ -64,6 +64,38 @@ You've successfully run and modified your React Native App. :partying_face:
 - If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
 - If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
 
+
+### Output :
+
+==========This is the first Page===========================
+
+
+![image](https://github.com/sadiyafodkar/TodoList_Using_ReactNatives/assets/64636366/4be6f9c0-a7f7-4a03-8a15-9908905e16da)
+
+
+=========After clicking on "Add to Goal" button=========================
+
+
+![image](https://github.com/sadiyafodkar/TodoList_Using_ReactNatives/assets/64636366/363f08c9-053b-46b2-ae4d-0677ed55a083)
+
+
+===========Now we can ADD as many goals we want in the textinput and click on add it will be added into the front UI and when we click on cancel the modal closes=====================
+
+
+![image](https://github.com/sadiyafodkar/TodoList_Using_ReactNatives/assets/64636366/6bfb8095-2a70-470c-a36a-1fe8cfaba794)
+
+
+![image](https://github.com/sadiyafodkar/TodoList_Using_ReactNatives/assets/64636366/b1110cbe-4b04-4eda-a34e-951655fc8ef8)
+
+
+
+==============And when we click on the goals it gets deleted============================================
+
+
+![image](https://github.com/sadiyafodkar/TodoList_Using_ReactNatives/assets/64636366/ce8ae1db-7e48-479c-b3a2-7c06ae0caff0)
+
+
+
 # Troubleshooting
 
 If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
